@@ -1,47 +1,22 @@
-# 👋 Hi, I'm @あなたのユーザー名
+# Rinon Morita
 
-### 🛠️ 19-Year-Old Infrastructure Engineer & Lifelong Learner
-* **Birth:** 2007.11.15 (19yo)
-* **Goal:** インフラを極めつつ、フロント・バック・デザインまでこなすフルスタックエンジニア
+## PROFILE
+* **Age:** 19 (2007.11.15)
+* **Goal:** Infrastructure Engineer
 
----
+## MINDSET & ACTION
+インフラ構築を軸に、フロントからバックエンド、デザインに至るまで、必要技術を徹底的に追求するエンジニアリングスタイルです。
 
-## 📊 Personality & Skill Radar (性格と能力の可視化)
-
-グラデーション等の装飾を排した、ソリッドなテキストグラフです。
-
-| 分野 | スキルセット・特性 | レベル (10段階) |
-| :--- | :--- | :--- |
-| **Infrastructure** | AWS / Network / Server / Cloud | [██████████] 10 |
-| **Backend** | Python / Java / PHP (Laravel) / SQL | [████████░░] 8 |
-| **Frontend** | React / Next.js / TypeScript / JS | [███████░░░] 7 |
-| **Design/Video** | Figma / Adobe Suite / Canva / AE | [███████░░░] 7 |
-| **Motivation** | 探究心 / 学習継続力 | [██████████] 10 |
-
----
-
-## 🚀 Currently Learning (学習中)
-* **Infrastructure:** AWS認定資格の取得、クラウドアーキテクチャ設計、ネットワーク構築
-* **Web:** Next.js, Node.js, Laravelによるアプリケーション開発
-
----
-
-## 🧰 Tech Stack (経験技術)
-
-### Languages & Scripts
-* **Backend:** Python, Java, PHP, VBA, GAS
-* **Frontend:** JavaScript, TypeScript, HTML, CSS
-* **Database:** MySQL, SQLite
-
-### Design & Creative
-* **Design:** Figma, Adobe Illustrator, Adobe Photoshop, Canva
-* **Motion:** Adobe After Effects, Canva (簡易動画制作)
-
----
-
-## 📬 Contact
-* **Email:** (あなたのメールアドレス)
-* **Education:** HAL Tokyo (在学中)
-
----
-*Thank you for visiting my profile!*
+```mermaid
+quadrantChart
+    title エンジニアリング・ポートフォリオ
+    x-axis インフラ・基盤重視 --> 開発・実装重視
+    y-axis デザイン・表現重視 --> サーバー・ネットワーク重視
+    quadrant-1 ネットワーク・サーバー構築
+    quadrant-2 フルスタック開発
+    quadrant-3 デザイン・UI/UX制作
+    quadrant-4 スクリプト・自動化
+    "Infrastructure": [0.2, 0.9]
+    "Web Development": [0.8, 0.2]
+    "Design & Video": [0.7, 0.1]
+    "Scripting": [0.6, 0.5]
