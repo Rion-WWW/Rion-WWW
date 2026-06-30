@@ -1,22 +1,44 @@
-# Rinon Morita
+# Hi, I'm Rinon
 
-## PROFILE
-* **Age:** 19 (2007.11.15)
-* **Goal:** Infrastructure Engineer
+## IDENTITY
+* **Age:** 19 (2006.11.15)
+* **Status:** HAL Tokyo Student (Web Dept / 2027 Graduation)
+* **Core:** Infrastructure Engineer
 
-## MINDSET & ACTION
-インフラ構築を軸に、フロントからバックエンド、デザインに至るまで、必要技術を徹底的に追求するエンジニアリングスタイルです。
+---
 
-```mermaid
-quadrantChart
-    title エンジニアリング・ポートフォリオ
-    x-axis インフラ・基盤重視 --> 開発・実装重視
-    y-axis デザイン・表現重視 --> サーバー・ネットワーク重視
-    quadrant-1 ネットワーク・サーバー構築
-    quadrant-2 フルスタック開発
-    quadrant-3 デザイン・UI/UX制作
-    quadrant-4 スクリプト・自動化
-    "Infrastructure": [0.2, 0.9]
-    "Web Development": [0.8, 0.2]
-    "Design & Video": [0.7, 0.1]
-    "Scripting": [0.6, 0.5]
+## CORE DRIVERS (性格特性)
+
+装飾を排した、私の行動原理の可視化です。
+
+| 性格特性 | 内容・スタンス | 優先度 |
+| :--- | :--- | :--- |
+| **探究心** | 答えのない事象に対し、AWS・NW・サーバー構築を通じて本質を追求する。 | 100% |
+| **技術的越境** | インフラの知見を土台に、フロント・バックエンドの境界を越えて実装する。 | 90% |
+| **視覚化への執着** | デザインツールや動画を用い、エンジニアリングを「価値ある体験」へと昇華させる。 | 80% |
+
+---
+
+## CURRENT FOCUS
+
+* **Infrastructure:** クラウドアーキテクチャ・ネットワーク・サーバー構築・資格勉強
+* **Development:** Next.js / React / Node.js / Laravel
+* **Design/Video:** ワイヤーフレーム制作 / デザインカンプ / 簡易動画制作
+
+---
+
+## TOOLS & EXPERIENCE
+
+### Backend & Scripting
+Python / Java / JavaScript / TypeScript / PHP / VBA / GAS
+
+### Databases
+MySQL / SQLite
+
+### Frontend, Design & Video
+HTML / CSS / Figma / Adobe Illustrator / Adobe Photoshop / Canva / After Effects
+
+---
+
+## CONTACT
+* **Education:** HAL Tokyo
