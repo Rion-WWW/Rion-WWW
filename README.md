@@ -1,44 +1,33 @@
-# Hi, I'm Rinon
+# My Status
 
-## IDENTITY
-* **Age:** 19 (2006.11.15)
-* **Status:** HAL Tokyo Student (Web Dept / 2027 Graduation)
-* **Core:** Infrastructure Engineer
-
----
-
-## CORE DRIVERS (性格特性)
-
-装飾を排した、私の行動原理の可視化です。
-
-| 性格特性 | 内容・スタンス | 優先度 |
-| :--- | :--- | :--- |
-| **探究心** | 答えのない事象に対し、AWS・NW・サーバー構築を通じて本質を追求する。 | 100% |
-| **技術的越境** | インフラの知見を土台に、フロント・バックエンドの境界を越えて実装する。 | 90% |
-| **視覚化への執着** | デザインツールや動画を用い、エンジニアリングを「価値ある体験」へと昇華させる。 | 80% |
+## Rinon Morita's Profile
+| 項目 | 内容 |
+| :--- | :--- |
+| Age | 19 (2007.11.15) |
+| Education | HAL Tokyo (Web Dept / 2027 Graduation) |
+| Role | Infrastructure Engineer |
 
 ---
 
-## CURRENT FOCUS
+## Technical & Personality Distribution
+スキルレベルではなく、私の「興味の密度」と「学習の重心」をテキストグラフで表現しました。
 
-* **Infrastructure:** クラウドアーキテクチャ・ネットワーク・サーバー構築・資格勉強
-* **Development:** Next.js / React / Node.js / Laravel
-* **Design/Video:** ワイヤーフレーム制作 / デザインカンプ / 簡易動画制作
-
----
-
-## TOOLS & EXPERIENCE
-
-### Backend & Scripting
-Python / Java / JavaScript / TypeScript / PHP / VBA / GAS
-
-### Databases
-MySQL / SQLite
-
-### Frontend, Design & Video
-HTML / CSS / Figma / Adobe Illustrator / Adobe Photoshop / Canva / After Effects
+| カテゴリ | 密度・集中度 |
+| :--- | :--- |
+| **Infrastructure** | [██████████] |
+| **Backend** | [████████░░] |
+| **Frontend** | [███████░░░] |
+| **Design/Video** | [███████░░░] |
 
 ---
 
-## CONTACT
-* **Education:** HAL Tokyo
+## Currently Focused Fields
+* **Infrastructure:** AWS, クラウド, ネットワーク, サーバー構築, 資格取得
+* **Web:** Next.js, Node.js, React, Laravel
+
+---
+
+## Tools & Experience
+* **Backend:** Python, Java, JavaScript, TypeScript, PHP, VBA, GAS, SQL, MySQL, SQLite
+* **Frontend:** HTML, CSS
+* **Design/Video:** Figma, Adobe Illustrator, Adobe Photoshop, After Effects, Canva
