@@ -9,16 +9,25 @@
 ## 📊 Personality Matrix (性格・マインドの可視化)
 
 ```mermaid
-gantt
-    title マインドセット・行動特性（100pt満点換算）
-    dateFormat  X
-    axisFormat %s
-
-    section 探究心・インプット欲
-    AWS・ネットワーク・資格・新技術への渇望 : 0, 100
-    
-    section 領域を跨ぐフットワーク
-    インフラの枠を超えてフロント・バックも自作 : 0, 90
-    
-    section 視覚表現へのこだわり
-    デザインカンプから動画制作までこなす美意識 : 0, 80
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#ffffff',
+    'edgeColor': '#00ff00',
+    'lineColor': '#00ff00',
+    'textColor': '#ffffff',
+    'background': '#000000'
+  }
+}}%%
+quadrantChart
+    title エンジニア特性マップ
+    x-axis インフラ重視 --> 開発・実装重視
+    y-axis デザイン・表現重視 --> サーバー・基盤重視
+    quadrant-1 安定・構築志向
+    quadrant-2 フルスタック構築
+    quadrant-3 デザイン・フロント
+    quadrant-4 スクリプト・自動化
+    "AWS/NW/Server": [0.2, 0.8]
+    "Next.js/React/Laravel": [0.8, 0.2]
+    "Design/Video": [0.8, 0.1]
+    "Python/GAS/VBA": [0.6, 0.6]
