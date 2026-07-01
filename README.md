@@ -1,6 +1,6 @@
 # My Status
 
-## Rinon Profile
+## Rion Profile
 | 項目 | 内容 |
 | :--- | :--- |
 | Age | 19 (2007.11.15) |
